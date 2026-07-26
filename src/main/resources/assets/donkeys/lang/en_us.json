@@ -1,0 +1,13 @@
+{
+  "itemGroup.donkeys": "Donkeys Tab",
+  "block.donkeys.example_block": "Example Block",
+  "item.donkeys.example_item": "Example Item",
+
+  "donkeys.configuration.title": "Donkeys Configs",
+  "donkeys.configuration.section.donkeys.common.toml": "Donkeys Configs",
+  "donkeys.configuration.section.donkeys.common.toml.title": "Donkeys Configs",
+  "donkeys.configuration.items": "Item List",
+  "donkeys.configuration.logDirtBlock": "Log Dirt Block",
+  "donkeys.configuration.magicNumberIntroduction": "Magic Number Text",
+  "donkeys.configuration.magicNumber": "Magic Number"
+}
