@@ -1,13 +1,16 @@
 {
-  "itemGroup.donkeys": "Donkeys Tab",
-  "block.donkeys.example_block": "Example Block",
-  "item.donkeys.example_item": "Example Item",
-
-  "donkeys.configuration.title": "Donkeys Configs",
-  "donkeys.configuration.section.donkeys.common.toml": "Donkeys Configs",
-  "donkeys.configuration.section.donkeys.common.toml.title": "Donkeys Configs",
-  "donkeys.configuration.items": "Item List",
-  "donkeys.configuration.logDirtBlock": "Log Dirt Block",
-  "donkeys.configuration.magicNumberIntroduction": "Magic Number Text",
-  "donkeys.configuration.magicNumber": "Magic Number"
+  "itemGroup.donkeys": "Donkeys",
+  "item.donkeys.gala_apple": "Gala Apple",
+  "item.donkeys.iron_chest_module": "Iron Chest Module",
+  "item.donkeys.gold_chest_module": "Gold Chest Module",
+  "item.donkeys.diamond_chest_module": "Diamond Chest Module",
+  "item.donkeys.collector_module": "Collector Module",
+  "item.donkeys.custom_saddle": "Custom Saddle",
+  "entity.donkeys.custom_donkey": "Donkey",
+  "donkeys.configuration.title": "Donkeys Config",
+  "donkeys.configuration.section.donkeys.common.toml": "Donkeys Config",
+  "donkeys.configuration.section.donkeys.common.toml.title": "Donkeys Config",
+  "donkeys.configuration.collectorRadius": "Collector Radius",
+  "donkeys.configuration.collectorTickRate": "Collector Tick Rate",
+  "donkeys.configuration.collectorItemsPerSweep": "Collector Items Per Sweep"
 }

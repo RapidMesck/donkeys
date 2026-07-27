@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.nbp.donkeys.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "donkeys.refmap.json",
+  "mixins": [
+    "AbstractHorseMixin"
+  ],
+  "client": [],
+  "server": [],
+  "minVersion": "0.8"
+}
